@@ -19,7 +19,7 @@ Develop a Skill Swap Platform — a user-driven application that allows individu
 ## Features
 
 ### User Features
-- Basic Profile: Name, location (optional), and profile photo (optional)
+- Basic Profile: Name, location, and profile photo
 - Skills Management:
   - List of skills offered
   - List of skills wanted
@@ -43,8 +43,8 @@ Develop a Skill Swap Platform — a user-driven application that allows individu
 Admins can:
 - Reject spammy or inappropriate skill descriptions
 - Ban users violating platform policies
-- Monitor all swap statuses (pending, accepted, cancelled)
-- Send platform-wide announcements (feature updates, downtime alerts, etc.)
+- Monitor all swap statuses 
+- Send platform-wide announcements
 - Download reports of user activity, feedback logs, and swap statistics
 
 ---
