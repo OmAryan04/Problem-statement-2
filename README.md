@@ -1,7 +1,7 @@
 # Problem-statement-1
 # Skill Swap Platform  
 **Team Name:** Future Layoff    
-**Contact Email:**  omaryan392@gmail.com | sandeepyadav004344@gmail.com | prithvirajdwivedy@gmail.com   
+**Contact Email:**  omaryan392@gmail.com | sandeepyadav004343@gmail.com | prithvirajdwivedy@gmail.com   
 
 A web application developed as part of the hackathon that enables users to list the skills they offer, request skills in return, and collaborate through peer-to-peer learning and exchanges.
 
